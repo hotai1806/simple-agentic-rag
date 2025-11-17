@@ -1,4 +1,4 @@
-# secret-mission : Simple AI Agent with RAG feature
+# Simple AI Agent with RAG feature
 
 ### Overview
 
